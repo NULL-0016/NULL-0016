@@ -1,0 +1,2 @@
+- Hi, I’m @NULL-0016 sergant445
+- I’m interested in Game Dev with C++
